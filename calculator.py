@@ -70,5 +70,4 @@ def main():
         print(e)
         return
     userinput_to_infix_generator(user_input)
-if __name__ == "__main__":
-    main()
+main()
